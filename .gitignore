@@ -1,0 +1,13 @@
+# Build file
+
+*.js
+*.html
+*.css
+
+# Gulpfile
+
+!Gulpfile.js
+
+# Dependencies folder
+
+node_modules
